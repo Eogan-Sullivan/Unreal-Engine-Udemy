@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal-Engine-Udemy/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ZH/2U3MFO0NJOWLN42HXMUIO8.uasset",
+				"D:/Unreal-Engine-Udemy/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WB/3JXD9GDVPGJULEGT6WZUIK.uasset",
+				"D:/Unreal-Engine-Udemy/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/7O/RJ4I1L4EZAWBEMCG5H64Z4.uasset"
+			]
+		}
+	]
+}
